@@ -1,3 +1,3 @@
 # KheopsMockup
 
-Mockup made with Balsamiq [balsamiq.com](https://balsamiq.com/)
+Mockup made with [Balsamiq](https://balsamiq.com/)
